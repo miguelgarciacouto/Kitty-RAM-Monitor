@@ -19,3 +19,4 @@ tab_bar_style custom
 # add this to the bottom of your conf file                                                                                                              
 ```                                                                                                                                                     
 4. Restart Kitty to apply the changes                                                                                                                        
+<img width="709" height="130" alt="sample" src="https://github.com/user-attachments/assets/2e1eae1a-9037-4373-ba19-c331df46e2a6" />
