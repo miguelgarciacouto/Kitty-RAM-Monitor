@@ -1,6 +1,6 @@
  # Kitty Tab RAM Monitor                                                                                                                                
         
-A lightweight extension for the [Kitty Terminal](https://github.com/kovidgoyal/kitty) that allows you to check the RAM usage from each used tab currently open the terminal!                                                                                                                                        
+A lightweight extension for the [Kitty Terminal](https://github.com/kovidgoyal/kitty) that allows you to check the RAM usage from each used tab currently open in the terminal!                                                                                                                                        
                                                                                                                                                         
 ## Usage                                                                                                                                                
 
