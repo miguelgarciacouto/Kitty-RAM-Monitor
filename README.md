@@ -4,7 +4,11 @@ A lightweight extension for the [Kitty Terminal](https://github.com/kovidgoyal/k
                                                                                                                                                         
 ## Usage                                                                                                                                                
 
-A lot of Linux users use the terminal to open GUI apps, servers, build tools, allowing you to have live logs, for example. Keeping track of system resources consumption usually requires opening a separate system monitor (such as 'htop', 'KDE System Monitor' etc)                                                  
+A lot of Linux users use the terminal to open GUI apps, servers, build tools, allowing you to have live logs, for example. Keeping track of system resources consumption usually requires opening a separate system monitor (such as 'htop', 'KDE System Monitor' etc)
+
+But with this extension, you can check how much RAM each tab is using right on the terminal window!
+<img width="709" height="130" alt="sample" src="https://github.com/user-attachments/assets/2e1eae1a-9037-4373-ba19-c331df46e2a6" />
+
 ## How to install it                                                                                                                                        
 1. Clone this repository or copy `tab_bar.py` into your kitty config directory:                                                                             
 ```bash                                                                                                                                                 
@@ -19,4 +23,4 @@ tab_bar_style custom
 # add this to the bottom of your conf file                                                                                                              
 ```                                                                                                                                                     
 4. Restart Kitty to apply the changes                                                                                                                        
-<img width="709" height="130" alt="sample" src="https://github.com/user-attachments/assets/2e1eae1a-9037-4373-ba19-c331df46e2a6" />
+
